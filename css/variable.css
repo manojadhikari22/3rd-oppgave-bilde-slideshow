@@ -1,0 +1,26 @@
+:root {
+    --primary-color: black;
+    --secondary-color: white;
+    --teritery-color: rgb(218, 61, 21);
+    --blue-color: #007BFF;
+    --dark-blue-color: #0056b3;
+    --color-accent-1: rgba(10, 10, 10, 0.8);
+
+    --font-size-base: 16px;
+	--font-size-very-small: 1.3rem;
+	--font-size-small: 1.4rem;
+    --font-size-small-medium: 1.5rem;
+	--font-size-medium: 1.9rem;
+    --font-size-medium-large: 2rem;
+	--font-size-large: 2.2rem;
+
+    
+    --spacing-base: 5px;
+    --spacing-very-small: 10px;
+	--spacing-small: 1rem;
+    --spacing-small-medium: 20px;
+	--spacing-medium: 2rem;
+	--spacing-large: 4rem;
+
+
+}
